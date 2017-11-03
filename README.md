@@ -1,0 +1,2 @@
+# reversi
+school project
